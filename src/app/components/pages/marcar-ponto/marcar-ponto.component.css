@@ -1,0 +1,22 @@
+
+body {
+    overflow-x: hidden;
+}
+.sidebar {
+    min-height: 100vh;
+    background-color: #343a40;
+}
+.sidebar a {
+    color: white;
+    text-decoration: none;
+}
+.sidebar a:hover {
+    background-color: #57494f;
+}
+.sidebar a.btn-danger {
+    color: white;
+    background-color: red;
+}
+.sidebar a.btn-danger:hover {
+    background-color: darkred;
+}
